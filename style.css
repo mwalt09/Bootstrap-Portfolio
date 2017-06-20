@@ -1,0 +1,79 @@
+/* Navbar Styles */
+
+/*.navbar-brand {
+	margin-left: 100px;
+}*/
+
+@media (min-width: 768px)
+.navbar-brand {
+	margin-left: 100px;
+}
+
+@media (min-width: 768px)
+.navbar.container-fluid .navbar-brand {
+	margin-left: 100px;
+}
+
+/* Portfolio Image Styles */
+
+.imagesWithinPortfolio .thumbnail {
+	position: relative;
+	max-width: 300px;
+	max-height: 300px;
+	margin: 20px;
+}
+
+#imageBox1 {
+	position: absolute;
+	height: 67px;
+	width: 300px;
+	background: #6B7D73;
+	top: 240px;
+	left: 35px;
+	padding-top: 20px;
+	color: white;
+}
+
+#imageBox2 {
+	position: absolute;
+	height: 67px;
+	width: 300px;
+	background: #6B7D73;
+	top: 240px;
+	left: 375px;
+	padding-top: 20px;
+	color: white;
+}
+
+#imageBox3 {
+	position: absolute;
+	height: 67px;
+	width: 300px;
+	background: #6B7D73;
+	top: 580px;
+	left: 35px;
+	padding-top: 20px;
+	color: white;
+}
+
+#imageBox4 {
+	position: absolute;
+	height: 67px;
+	width: 300px;
+	background: #6B7D73;
+	top: 580px;
+	left: 375px;
+	padding-top: 20px;
+	color: white;
+}
+
+#imageBox5 {
+	position: absolute;
+	height: 67px;
+	width: 300px;
+	background: #6B7D73;
+	top: 920px;
+	left: 35px;
+	padding-top: 20px;
+	color: white;
+}
